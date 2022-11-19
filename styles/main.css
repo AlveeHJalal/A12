@@ -1,0 +1,19 @@
+body{
+    border:3px solid #931420;
+
+}
+header{
+    text-align: center;
+    font-size: 50px;
+}
+footer p
+{
+    margin-top: 100%;
+    margin-bottom:0;
+    text-align: center;
+border-bottom:3px solid #931420;
+color:white;
+padding:1em 0;
+background-color:#931420;
+clear:top;
+}
